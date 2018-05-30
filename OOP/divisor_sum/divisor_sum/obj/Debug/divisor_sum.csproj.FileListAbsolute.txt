@@ -1,0 +1,6 @@
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\divisor_sum\divisor_sum\bin\Debug\divisor_sum.exe.config
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\divisor_sum\divisor_sum\bin\Debug\divisor_sum.exe
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\divisor_sum\divisor_sum\bin\Debug\divisor_sum.pdb
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\divisor_sum\divisor_sum\obj\Debug\divisor_sum.csprojResolveAssemblyReference.cache
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\divisor_sum\divisor_sum\obj\Debug\divisor_sum.exe
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\divisor_sum\divisor_sum\obj\Debug\divisor_sum.pdb

@@ -1,0 +1,6 @@
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\sphelele\Documents\Visual Studio 2015\Projects\Machine_learning\inheritance\inheritance\obj\Debug\inheritance.pdb

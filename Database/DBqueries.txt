@@ -1,0 +1,33 @@
+we assume that it is not in first normal form because the are no repeating values in both tables, to deny one is to many relationship.
+secound or third because we don't know that the columns are fully depended on the primary key(not repeating columns).
+
+
+--first query
+Select * from CITY where 
+CITY.CountryCode = COUNTRY.Code 
+and COUNTRYCONTINENT = 'Africa';
+
+--Second query
+select c.company_code, c.founder, count(l.lead_manager) as lead_manager, t2.senior_mananger, t3.mananger_code, t4.employee_code
+
+from company c join lead_manager l on c.company_code = l.company_code 
+
+					join (select s.company_code, count(s.senior_mananger) as senior_mananger 
+					from senior_mananger s 
+					group by s.company_code) t2 
+
+on t2.company_code = c.company_code
+
+					join (select m.company_code, count(m.mananger_code) as mananger_code 
+					from mananger m 
+					group by m.company_code) t3 
+
+on t3.company_code = c.company_code
+
+			join (select e.company_code, count(e.employee_code) as employee_code 
+					from employee e 
+					group by e.company_code) t4 
+
+on t4.company_code = c.company_code
+
+group by c.company_code,  c.founder, t2.senior_mananger, t3.mananger_code, t4.employee_code;
